@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.idilaydin.ca/sitemap.xml
+Host: https://www.idilaydin.ca
